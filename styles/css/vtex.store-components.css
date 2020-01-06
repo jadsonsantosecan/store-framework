@@ -33,3 +33,11 @@
     background-color: white;
     border: transparent;
 }
+
+/* shelf */
+.container--shelf-top-seller {
+    display: block;
+    max-width: 1260px;
+    margin: 20px auto 40px;
+    padding: 0;
+}
